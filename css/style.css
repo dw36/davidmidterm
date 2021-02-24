@@ -30,3 +30,20 @@ img {
 li:nth-child(2) {
   padding: 2rem;
 }
+
+nav{
+  position: fixed;  
+  top: 0px;
+  left: auto;
+  z-index: 999; 
+}
+div {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 30px;
+  background-color: #dddddd;
+}
+
